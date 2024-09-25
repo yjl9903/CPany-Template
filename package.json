@@ -9,7 +9,7 @@
     "@cpany/plugin-atcoder": "^0.1.29",
     "@cpany/plugin-codeforces": "^0.1.29",
     "@cpany/plugin-hdu": "^0.1.29",
-    "@cpany/plugin-luogu": "^0.1.29",
+    "@cpany/plugin-luogu": "^0.1.34",
     "capture-website-cli": "^3.0.1"
   }
 }
